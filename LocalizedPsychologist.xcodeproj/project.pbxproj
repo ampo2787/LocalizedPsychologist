@@ -8,24 +8,34 @@
 
 /* Begin PBXBuildFile section */
 		7A8E190021BE4A9200C6A406 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 7A8E18FF21BE4A9200C6A406 /* AppDelegate.m */; };
-		7A8E190321BE4A9200C6A406 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7A8E190221BE4A9200C6A406 /* ViewController.m */; };
-		7A8E190621BE4A9200C6A406 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7A8E190421BE4A9200C6A406 /* Main.storyboard */; };
 		7A8E190821BE4A9400C6A406 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7A8E190721BE4A9400C6A406 /* Assets.xcassets */; };
 		7A8E190B21BE4A9400C6A406 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7A8E190921BE4A9400C6A406 /* LaunchScreen.storyboard */; };
 		7A8E190E21BE4A9400C6A406 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 7A8E190D21BE4A9400C6A406 /* main.m */; };
+		7A8E191621BE4B2D00C6A406 /* HappinessViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7A8E191521BE4B2D00C6A406 /* HappinessViewController.m */; };
+		7A8E191921BE4B3C00C6A406 /* FaceView.m in Sources */ = {isa = PBXBuildFile; fileRef = 7A8E191821BE4B3C00C6A406 /* FaceView.m */; };
+		7A8E191C21BE4B4500C6A406 /* PsychologistViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7A8E191B21BE4B4500C6A406 /* PsychologistViewController.m */; };
+		7A8E191E21BE4B5600C6A406 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7A8E191D21BE4B5600C6A406 /* Main.storyboard */; };
+		7A8E192821BE4C5400C6A406 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 7A8E192A21BE4C5400C6A406 /* Localizable.strings */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		7A8E18FB21BE4A9200C6A406 /* LocalizedPsychologist.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LocalizedPsychologist.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		7A8E18FE21BE4A9200C6A406 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		7A8E18FF21BE4A9200C6A406 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		7A8E190121BE4A9200C6A406 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
-		7A8E190221BE4A9200C6A406 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
-		7A8E190521BE4A9200C6A406 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		7A8E190721BE4A9400C6A406 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7A8E190A21BE4A9400C6A406 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		7A8E190C21BE4A9400C6A406 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		7A8E190D21BE4A9400C6A406 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		7A8E191421BE4B2D00C6A406 /* HappinessViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HappinessViewController.h; sourceTree = "<group>"; };
+		7A8E191521BE4B2D00C6A406 /* HappinessViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HappinessViewController.m; sourceTree = "<group>"; };
+		7A8E191721BE4B3C00C6A406 /* FaceView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FaceView.h; sourceTree = "<group>"; };
+		7A8E191821BE4B3C00C6A406 /* FaceView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FaceView.m; sourceTree = "<group>"; };
+		7A8E191A21BE4B4500C6A406 /* PsychologistViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PsychologistViewController.h; sourceTree = "<group>"; };
+		7A8E191B21BE4B4500C6A406 /* PsychologistViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PsychologistViewController.m; sourceTree = "<group>"; };
+		7A8E191D21BE4B5600C6A406 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
+		7A8E192521BE4C1200C6A406 /* ko */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ko; path = ko.lproj/LaunchScreen.strings; sourceTree = "<group>"; };
+		7A8E192921BE4C5400C6A406 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Localizable.strings; sourceTree = "<group>"; };
+		7A8E192B21BE4C5900C6A406 /* ko */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ko; path = ko.lproj/Localizable.strings; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,17 +68,62 @@
 		7A8E18FD21BE4A9200C6A406 /* LocalizedPsychologist */ = {
 			isa = PBXGroup;
 			children = (
+				7A8E192221BE4BA300C6A406 /* Happiness */,
+				7A8E192121BE4B8A00C6A406 /* View */,
+				7A8E191F21BE4B7D00C6A406 /* Controller */,
 				7A8E18FE21BE4A9200C6A406 /* AppDelegate.h */,
 				7A8E18FF21BE4A9200C6A406 /* AppDelegate.m */,
-				7A8E190121BE4A9200C6A406 /* ViewController.h */,
-				7A8E190221BE4A9200C6A406 /* ViewController.m */,
-				7A8E190421BE4A9200C6A406 /* Main.storyboard */,
 				7A8E190721BE4A9400C6A406 /* Assets.xcassets */,
 				7A8E190921BE4A9400C6A406 /* LaunchScreen.storyboard */,
 				7A8E190C21BE4A9400C6A406 /* Info.plist */,
 				7A8E190D21BE4A9400C6A406 /* main.m */,
+				7A8E192A21BE4C5400C6A406 /* Localizable.strings */,
 			);
 			path = LocalizedPsychologist;
+			sourceTree = "<group>";
+		};
+		7A8E191F21BE4B7D00C6A406 /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				7A8E191A21BE4B4500C6A406 /* PsychologistViewController.h */,
+				7A8E191B21BE4B4500C6A406 /* PsychologistViewController.m */,
+			);
+			path = Controller;
+			sourceTree = "<group>";
+		};
+		7A8E192121BE4B8A00C6A406 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				7A8E191D21BE4B5600C6A406 /* Main.storyboard */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		7A8E192221BE4BA300C6A406 /* Happiness */ = {
+			isa = PBXGroup;
+			children = (
+				7A8E192421BE4BBD00C6A406 /* Controller */,
+				7A8E192321BE4BB800C6A406 /* View */,
+			);
+			path = Happiness;
+			sourceTree = "<group>";
+		};
+		7A8E192321BE4BB800C6A406 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				7A8E191721BE4B3C00C6A406 /* FaceView.h */,
+				7A8E191821BE4B3C00C6A406 /* FaceView.m */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		7A8E192421BE4BBD00C6A406 /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				7A8E191421BE4B2D00C6A406 /* HappinessViewController.h */,
+				7A8E191521BE4B2D00C6A406 /* HappinessViewController.m */,
+			);
+			path = Controller;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -112,6 +167,7 @@
 			knownRegions = (
 				en,
 				Base,
+				ko,
 			);
 			mainGroup = 7A8E18F221BE4A9200C6A406;
 			productRefGroup = 7A8E18FC21BE4A9200C6A406 /* Products */;
@@ -129,8 +185,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				7A8E190B21BE4A9400C6A406 /* LaunchScreen.storyboard in Resources */,
+				7A8E192821BE4C5400C6A406 /* Localizable.strings in Resources */,
 				7A8E190821BE4A9400C6A406 /* Assets.xcassets in Resources */,
-				7A8E190621BE4A9200C6A406 /* Main.storyboard in Resources */,
+				7A8E191E21BE4B5600C6A406 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -141,29 +198,33 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				7A8E190321BE4A9200C6A406 /* ViewController.m in Sources */,
 				7A8E190E21BE4A9400C6A406 /* main.m in Sources */,
+				7A8E191C21BE4B4500C6A406 /* PsychologistViewController.m in Sources */,
+				7A8E191621BE4B2D00C6A406 /* HappinessViewController.m in Sources */,
 				7A8E190021BE4A9200C6A406 /* AppDelegate.m in Sources */,
+				7A8E191921BE4B3C00C6A406 /* FaceView.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		7A8E190421BE4A9200C6A406 /* Main.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				7A8E190521BE4A9200C6A406 /* Base */,
-			);
-			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
 		7A8E190921BE4A9400C6A406 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
 				7A8E190A21BE4A9400C6A406 /* Base */,
+				7A8E192521BE4C1200C6A406 /* ko */,
 			);
 			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+		7A8E192A21BE4C5400C6A406 /* Localizable.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				7A8E192921BE4C5400C6A406 /* en */,
+				7A8E192B21BE4C5900C6A406 /* ko */,
+			);
+			name = Localizable.strings;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */
@@ -173,6 +234,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
 				CLANG_ANALYZER_NONNULL = YES;
 				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
@@ -220,7 +282,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 12.1;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.3;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
 				ONLY_ACTIVE_ARCH = YES;
@@ -232,6 +294,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
 				CLANG_ANALYZER_NONNULL = YES;
 				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
@@ -273,7 +336,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 12.1;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.3;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
 				SDKROOT = iphoneos;

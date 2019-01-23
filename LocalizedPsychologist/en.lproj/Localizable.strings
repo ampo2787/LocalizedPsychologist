@@ -1,0 +1,14 @@
+/* 
+  Localizable.strings
+  LocalizedPsychologist
+
+  Created by JihoonPark on 10/12/2018.
+  Copyright © 2018 JihoonPark. All rights reserved.
+*/
+
+"TITLE_STRING" = "Psychological counseling";
+"BTN_TITLE_SOSO" = "Soso.";
+"BTN_TITLE_GOOD" = "Good!";
+"BTN_TITLE_BAD" = "Bad...";
+
+"VIEW_TITLE_FEEL" = "How are you today?";

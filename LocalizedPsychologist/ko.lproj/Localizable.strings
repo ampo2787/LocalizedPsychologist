@@ -1,0 +1,15 @@
+/* 
+  Localizable.strings
+  LocalizedPsychologist
+
+  Created by JihoonPark on 10/12/2018.
+  Copyright © 2018 JihoonPark. All rights reserved.
+*/
+
+"TITLE_STRING" = "심리 상담";
+
+"BTN_TITLE_SOSO" = "그저 그래요.";
+"BTN_TITLE_GOOD" = "좋아요!";
+"BTN_TITLE_BAD" = "나빠요...";
+
+"VIEW_TITLE_FEEL" = "오늘 기분이 어떠신가요?";
